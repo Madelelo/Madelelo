@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madeleine</h1>
-<h3 align="center">I teach computer science to kids. Worlds best job!</h3>
+<h3 align="center">I teach computer science to kids. World's best job!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madelelo&label=Profile%20views&color=0e75b6&style=flat" alt="madelelo" /> </p>
 
