@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madelelo&label=Profile%20views&color=0e75b6&style=flat" alt="madelelo" /> </p>
 
-- 🔭 I’m currently working on [Sulten the dinnerapp](https://github.com/aslakhol/sulten)
+- 🔭 I’m currently working on [Quiz Game App](https://github.com/Madelelo/quiz-game)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
